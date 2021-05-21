@@ -1,0 +1,61 @@
+h1{
+   background-color: palegoldenrod;
+   justify-content: center;
+   margin-left: 650px;
+
+}
+.header{
+    background-color: paleturquoise;
+    display: flex;
+   
+    
+}
+.grid{
+    background-color: turquoise;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.item a{
+   justify-content: flex-start;
+}
+.item p{
+   
+    opacity:0;
+    color: #000666;
+   font-family: fantasy;
+    border-color: #756863;
+}
+.grid img{
+    border: solid;
+    flex-wrap: wrap;
+}
+
+
+a{
+    color: #546854;
+}
+img{
+    background-color: #065458;
+}
+h2{
+    background-color: #abcdef;
+}
+.menu{
+    color:rgb(8, 27, 0);
+    margin-left: 500px;
+}
+.item:hover p{
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
